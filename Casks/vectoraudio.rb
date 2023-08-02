@@ -1,8 +1,8 @@
 cask "vectoraudio" do
-  version "1.3.1"
-  sha256 "628bccd1ab90f7ad7d02f7ee104a1111c987ce32546a6b5652c23fe9736cdf58"
+  version "1.3.2"
+  sha256 "98f6a5b0c45cefc832cc913a07fd8477f9de1411ea7b87bd54d647208f1a8f6f"
 
-  url "https://github.com/pierr3/VectorAudio/releases/download/v1.3.1/VectorAudio-v1.3.1-Universal.dmg"
+  url "https://github.com/pierr3/VectorAudio/releases/download/v1.3.2/VectorAudio-v1.3.2-Universal.dmg"
   name "VectorAudio"
   desc "An Audio-For-VATSIM ATC Client for macOs and Linux"
   homepage "https://github.com/pierr3/VectorAudio"
